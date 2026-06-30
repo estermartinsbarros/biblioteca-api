@@ -546,7 +546,7 @@ Algumas melhorias que podem ser adicionadas futuramente:
 
 ## Autoras
 
-- Ester Martin Barros dos Santos
+-  Ester Martins dos Santos Barros
 - Sthefania de Carla Costa Ferreira
 
 ---
